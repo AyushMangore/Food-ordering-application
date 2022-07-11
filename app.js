@@ -1,9 +1,9 @@
 // Author : Ayush Mangore
 // This project is bascially a complete backend for a food ordering application, It involves facilities like
 // register, login, creating plans, fetching all the plans,providing reviews etc.
-// I have used mondoDB as a backend database and express to build API's 
+// I have used mongoDB as a backend database and express to build API's 
 
-// MongoDB is an open source NoSQL database management program. 
+// MongoDB is an open source NoSQL database management program.
 // NoSQL is used as an alternative to traditional relational databases. 
 // NoSQL databases are quite useful for working with large sets of distributed data. 
 // MongoDB is a tool that can manage document-oriented information, store or retrieve information.
